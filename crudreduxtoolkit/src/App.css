@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+.addUser {
+  /* border: 2px solid black; */
+  border-radius: 5px;
+  margin: 5px 450px 5px 450px;
+  padding: 10px 50px 10px 50px;
+  display: grid;
+  row-gap: 15px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+}
+.displayUsers {
+  margin-top: 30px;
+}
+.user {
+  border: 0px solid gray;
+  border-radius: 5px;
+  margin: 5px 450px 5px 450px;
+  padding-bottom: 10px;
+  padding-top: 1px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  text-align: center;
+}

@@ -1,0 +1,69 @@
+.App {
+  text-align: center;
+}
+
+input{
+  border: 1px solid #04AA6D;
+  height: 60px;
+  width: 45%;
+}
+
+.taskTitle{
+  margin-right: 25px;
+}
+
+.addButton{
+  background-color: #04AA6D; /* Green */
+  border: solid #04AA6D;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  margin-right: 15px;
+}
+
+.comButton{
+  background-color: #04AA6D; /* Green */
+  border: solid #04AA6D;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.addTaskButton{
+  background-color: #04AA6D; /* Green */
+  height: 60px;
+  width: 45%;
+  border: 3px solid #04AA6D;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 24px;
+}
+
+.addTask{
+  border: 2px solid gray;
+  border-radius: 5px;
+  padding: 25px;
+  margin:40px 300px 20px 300px;
+}
+
+.taskList{
+  border: 2px solid gray;
+  border-radius: 5px;
+  padding: 10px 25px 10px 25px;
+  margin:5px 300px 5px 300px;
+}
+
+.heading{
+  color: #04AA6D;
+  border-bottom: 2px solid black;
+}
+.task{
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  color: #04AA6D;
+}
